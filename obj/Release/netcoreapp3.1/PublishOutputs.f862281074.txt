@@ -1,0 +1,8 @@
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod05\DemoFiles\HostInAzure\bin\Release\netcoreapp3.1\publish\BlueYonder.Hotels.Service.exe
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod05\DemoFiles\HostInAzure\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod05\DemoFiles\HostInAzure\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod05\DemoFiles\HostInAzure\bin\Release\netcoreapp3.1\publish\Properties_old\launchSettings.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod05\DemoFiles\HostInAzure\bin\Release\netcoreapp3.1\publish\BlueYonder.Hotels.Service.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod05\DemoFiles\HostInAzure\bin\Release\netcoreapp3.1\publish\BlueYonder.Hotels.Service.deps.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod05\DemoFiles\HostInAzure\bin\Release\netcoreapp3.1\publish\BlueYonder.Hotels.Service.runtimeconfig.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod05\DemoFiles\HostInAzure\bin\Release\netcoreapp3.1\publish\BlueYonder.Hotels.Service.pdb
