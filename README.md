@@ -31,9 +31,17 @@
 
 12. Click **Create**. Wait for the web app to be created. Click the newly created web app.
 
+![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Web-APIs-in-Web-Apps/blob/master/Images/01.png)
+
 13. In the newly created web app blade, in the **Deployment** section, click **Deployment Center**, select **FTP** and then Click **Dashboard**.
 
+![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Web-APIs-in-Web-Apps/blob/master/Images/02.png)
+
 14. In the **FTP** pane, click **User Credentials**, in the **username** box enter a unique name.
+
+![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Web-APIs-in-Web-Apps/blob/master/Images/03.png)
+
+![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Web-APIs-in-Web-Apps/blob/master/Images/05.png)
 
 15. In the **Password** and **Confirm password** inputs, enter a new password.
 
@@ -73,6 +81,8 @@
         </PropertyGroup>
     </Project>
     ```
+    
+    ![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Web-APIs-in-Web-Apps/blob/master/Images/04.png)
 
 24. Replace the **PublishSiteName**, **UserName** and **Password** values with the values that you have copied earlier.
 
@@ -90,3 +100,6 @@
         dotnet publish /p:PublishProfile=Azure /p:Configuration=Release
     ```
 
+![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Web-APIs-in-Web-Apps/blob/master/Images/06.png)
+
+![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Web-APIs-in-Web-Apps/blob/master/Images/07.png)
